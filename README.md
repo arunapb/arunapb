@@ -21,10 +21,17 @@
 const aruna = {
   name: "Aruna Priyadarshana Bandara",
   education: "3rd year IT undergraduate at University of Moratuwa",
-  work: "Software Engineer Intern at WSO2",
-  interests: ["Full-stack development", "API design"],
+  experiances: [
+    {
+      position: "Software Engineer Intern",
+      company: "WSO2",
+      duration: "Feb 2025 - July 2025"
+    }
+  ],
+  interests: ["Full-stack development", "API design", "Machine Learning"],
   hobbies: ["Mobile photography", "Playing mobile games"]
 }
+
 ```
 
 <div align="left"> 
