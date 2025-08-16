@@ -20,7 +20,7 @@
 ```javascript
 const aruna = {
   name: "Aruna Priyadarshana Bandara",
-  education: "3rd year IT undergraduate at University of Moratuwa",
+  education: "4th year IT undergraduate at University of Moratuwa",
   experiances: [
     {
       position: "Software Engineer Intern",
